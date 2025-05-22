@@ -101,8 +101,8 @@ Ouvrez le lien local qui s'affiche (souvent http://localhost:8501).
 
 ## 🧑‍💻 Développé par
 
-**Badr**
-Passionné par l'IA, les systèmes intelligents et le développement Full Stack.
+**Badr**  
+Passionné par l'IA, les systèmes intelligents et le développement Full Stack.  
 📍 Maroc
 
 ---
